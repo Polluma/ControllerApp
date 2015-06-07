@@ -74,6 +74,7 @@ public class MainMenuActivity extends ActionBarActivity {
         finish();
     }
 
+       ///dsadas
     private class checkingTask extends AsyncTask<String, Void, String>
     {
 
